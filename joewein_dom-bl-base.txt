@@ -9557,7 +9557,7 @@
 127.0.0.1	bzdbdtc8tq36g7zv.fit
 127.0.0.1	bzddb.com
 127.0.0.1	bzehnyagp.com
-127.0.0.1	bzgh.jmeu.cc:9999
+127.0.0.1	bzgh.jmeu.cc
 127.0.0.1	bzosfb.top
 127.0.0.1	bzpgdsmin5.net
 127.0.0.1	bzt-phosphate.com
